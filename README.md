@@ -3,15 +3,15 @@ Python scripting files for automated data downloading from Netatmo Weather API a
 
 These scritps allows you to download, parse, handle and dump the most updated data from Netatmo stations to your PI System (Osisoft).
 
-Get public stations records for specific dates and ranges.
+**Get public stations records for specific dates and ranges.**
 
-Get the last Private and Public Stations data from Netatmo.
+**Get the last Private and Public Stations data from Netatmo.**
 
-Parsing Example for obtaining specific data such as Temperature or Wind Gauge.
+**Parsing Example for obtaining specific data such as Temperature or Wind Gauge.**
 
-NetatmoToPi: A summary for download, parsing and data handling of Netatmo data. It also creates the whole set of Pi Points needed 
+**NetatmoToPi: A summary for download, parsing and data handling of Netatmo data. It also creates the whole set of Pi Points needed 
 in the Pi Archive, then the AF structure of the assets in your database, a specific JSON for uploading data according to the PI Web
-API requirements and finally data dumping.
+API requirements and finally data dumping.**
 
 ## Getting Started
 
